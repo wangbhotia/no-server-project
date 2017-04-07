@@ -1,0 +1,1201 @@
+[ 
+	{
+		"id": 1,
+		"title": "Kong: Skull Island",
+		"image": "./img/movies/kong-skull-island.jpg",
+		"desc": "Scientists, soldiers and adventurers unite to explore a mythical, uncharted island in the Pacific Ocean. Cut off from everything they know, they venture into the domain of the mighty Kong, igniting the ultimate battle between man and nature. As their mission of discovery soon becomes one of survival, they must fight to escape from a primal world where humanity does not belong.",
+		"year": 2017,
+		"director": "Jordan Vogt-Roberts",
+		"budget": "185 million USD",
+		"review": "Skull Island deploys action-movie feints and horror-film frights capably amid its clichés and deaths. Every so often it also pauses and allows Kong and and his captive to move you.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 2,
+		"title": "Logan",
+		"image": "./img/movies/logan.jpg",
+		"desc": "In the near future, a weary Logan (Hugh Jackman) cares for an ailing Professor X (Patrick Stewart) at a remote outpost on the Mexican border. His plan to hide from the outside world gets upended when he meets a young mutant (Dafne Keen) who is very much like him. Logan must now protect the girl and battle the dark forces that want to capture her.",
+		"year": 2017,
+		"director": "James Mangold",
+		"budget": "97 million USD",
+		"review": "Doesn't try to be a shoot-the-works, how-crazy-are-his-powers grand finale. It's a scruffy dystopian road Western that takes its time in a way that most slam-bang superhero movies don't.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 3,
+		"title": "Spider-Man: Homecoming",
+		"image": "./img/movies/spiderman.jpg",
+		"desc": "Thrilled by his experience with the Avengers, young Peter Parker (Tom Holland) returns home to live with his Aunt May. Under the watchful eye of mentor Tony Stark, Parker starts to embrace his newfound identity as Spider-Man. He also tries to return to his normal daily routine -- distracted by thoughts of proving himself to be more than just a friendly neighborhood superhero. Peter must soon put his powers to the test when the evil Vulture emerges to threaten everything that he holds dear.",
+		"year": 2017,
+		"director": "Jon Watts",
+		"budget": "230 million USD",
+		"review": "Ten years after Tobey Maguire's Spider-Man was released and officially launched our current cinematic superhero craze, Marvel delivers a reboot that might just set your Spidey senses a-tingling.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 4,
+		"title": "Ghost in the Shell",
+		"image": "./img/movies/ghost-shell.jpg",
+		"desc": "In the near future, Major is the first of her kind: a human who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals. When terrorism reaches a new level that includes the ability to hack into people's minds and control them, Major is uniquely qualified to stop it. As she prepares to face a new enemy, Major discovers that her life was stolen instead of saved. Now, she will stop at nothing to recover her past while punishing those who did this to her.",
+		"year": 2017,
+		"director": "Rupert Sanders",
+		"budget": "110 million USD",
+		"review": "Enjoy the credits because they offer some of the more arresting, inventive images in this visually cluttered yet often disappointingly drab movie.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 5,
+		"title": "Get Out",
+		"image": "./img/movies/get-out.jpg",
+		"desc": "Now that Chris (Daniel Kaluuya) and his girlfriend, Rose (Allison Williams), have reached the meet-the-parents milestone of dating, she invites him for a weekend getaway upstate with Missy and Dean. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+		"year": 2017,
+		"director": "Jordan Peele",
+		"budget": "5 million USD",
+		"review": "Blending race-savvy satire with horror to especially potent effect, this bombshell social critique from first-time director Jordan Peele proves positively fearless.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 6,
+		"title": "Beauty and the Beast",
+		"image": "./img/movies/beauty-beast.jpg",
+		"desc": "Belle (Emma Watson), a bright, beautiful and independent young woman, is taken prisoner by a beast (Dan Stevens) in its castle. Despite her fears, she befriends the castle's enchanted staff and learns to look beyond the beast's hideous exterior, allowing her to recognize the kind heart and soul of the true prince that hides on the inside.",
+		"year": 2017,
+		"director": "Bill Condon",
+		"budget": "160 million USD",
+		"review": "A touching, eminently watchable, at times slightly awkward experience that justifies its existence yet never totally convinces you it's a movie the world was waiting for.",
+		"genres": "romance"
+	},
+
+	{
+		"id": 7,
+		"title": "Power Rangers",
+		"image": "./img/movies/power-rangers.jpg",
+		"desc": "Five ordinary teens must become something extraordinary when they learn that their small town of Angel Grove - and the world - is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it's too late, band together as the Power Rangers.",
+		"year": 2017,
+		"director": "Dean Israelite",
+		"budget": "100 million USD",
+		"review": "These five angsty high school heroes sometimes push rebellion to obnoxious levels, while sprinkling in rough-edged language and superfluous sexual innuendo.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 8,
+		"title": "John Wick: Chapter 2",
+		"image": "./img/movies/john-wick.jpg",
+		"desc": "Retired super-assassin John Wick's plans to resume a quiet civilian life are cut short when Italian gangster Santino D'Antonio shows up on his doorstep with a gold marker, compelling him to repay past favors. Ordered by Winston, kingpin of secret assassin society The Continental, to respect the organization's ancient code, Wick reluctantly accepts the assignment to travel to Rome to take out D'Antonio's sister, the ruthless capo atop the Italian Camorra crime syndicate.",
+		"year": 2017,
+		"director": "Chad Stahelski",
+		"budget": "40 million USD",
+		"review": "Two major improvements on the original: First, no animals were harmed in the making of the film. And secondly, the human body count is significantly higher.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 9,
+		"title": "The Lego Batman Movie",
+		"image": "./img/movies/lego-batman.jpg",
+		"desc": "There are big changes brewing in Gotham, but if Batman (Will Arnett) wants to save the city from the Joker's (Zach Galifianakis) hostile takeover, he may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up. Maybe his superhero sidekick Robin (Michael Cera) and loyal butler Alfred (Ralph Fiennes) can show him a thing or two.",
+		"year": 2017,
+		"director": "Chris McKay",
+		"budget": "80 million USD",
+		"review": "As gateway drugs go, The Lego Batman Movie is pretty irresistible. It’s silly without being truly strange or crossing over into absurdity.",
+		"genres": "Action"
+	},
+
+	{
+		"id": 10,
+		"title": "Rogue One: A Star Wars Story",
+		"image": "./img/movies/rogue-one.jpg",
+		"desc": "Former scientist Galen Erso lives on a farm with his wife and young daughter Jyn. His peaceful existence comes crashing down when the evil Orson Krennic takes him away from his beloved family. Many years later, Galen is now the Empire's lead engineer for the most powerful weapon in the galaxy, the Death Star. Knowing that her father holds the key to its destruction, a vengeful Jyn joins forces with a spy and other resistance fighters to steal the space station's plans for the Rebel Alliance.",
+		"year": 2016,
+		"director": "Gareth Edwards",
+		"budget": "200 million USD",
+		"review": "A well-crafted and thoughtful story drives Rogue One - in a sandbox that provides a perfect blend of modern action and classic Star Wars style.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 11,
+		"title": "Arrival",
+		"image": "./img/movies/arrival.jpg",
+		"desc": "Linguistics professor Louise Banks (Amy Adams) leads an elite team of investigators when gigantic spaceships touch down in 12 locations around the world. As nations teeter on the verge of global war, Banks and her crew must race against time to find a way to communicate with the extraterrestrial visitors. Hoping to unravel the mystery, she takes a chance that could threaten her life and quite possibly all of mankind.",
+		"year": 2016,
+		"director": "Denis Villeneuve",
+		"budget": "198 million USD",
+		"review": "A tremulous, inviting Amy Adams turns softness and quiet into heroic qualities, keeping her voice low and modulated and using stillness to pull you close.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 12,
+		"title": "Passangers",
+		"image": "./img/movies/passangers.jpg",
+		"desc": "On a routine journey through space to a new home, two passengers, sleeping in suspended animation, are awakened 90 years too early when their ship malfunctions. As Jim and Aurora face living the rest of their lives on board, with every luxury they could ever ask for, they begin to fall for each other, unable to deny their intense attraction until they discover the ship is in grave danger. With the lives of 5,000 sleeping passengers at stake, only Jim and Aurora can save them all.",
+		"year": 2016,
+		"director": "Morten Tyldum",
+		"budget": "110 million USD",
+		"review": "Neither the rapport between Jennifer Lawrence and Chris Pratt nor the impressive effects can quite redeem this shallow sci-fi.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 13,
+		"title": "Sing",
+		"image": "./img/movies/sing.jpg",
+		"desc": "Dapper Koala Buster Moon presides over a once-grand theater that has fallen on hard times. An eternal optimist, and a bit of a scoundrel, he loves his theater above all and will do anything to preserve it. Facing the crumbling of his life's ambition, he takes one final chance to restore his fading jewel to its former glory by producing the world's greatest singing competition. Five contestants emerge: a mouse, a timid elephant, a pig, a gorilla and a punk-rock porcupine.",
+		"year": 2016,
+		"director": "Garth Jennings",
+		"budget": "613.5 million USD",
+		"review": "Was this sad but honest meditation on the fickle nature of showbusiness originally pitched as being quite so bleak?",
+		"genres": "drama"
+	},
+
+	{
+		"id": 14,
+		"title": "Manchester by the Sea",
+		"image": "./img/movies/manchester.jpg",
+		"desc": "After the death of his older brother Joe, Lee Chandler (Casey Affleck) is shocked that Joe has made him sole guardian of his teenage nephew Patrick. Taking leave of his job as a janitor in Boston, Lee reluctantly returns to Manchester-by-the-Sea, the fishing village where his working-class family has lived for generations. There, he is forced to deal with a past that separated him from his wife, Randi (Michelle Williams), and the community where he was born and raised.",
+		"year": 2016,
+		"director": "Kenneth Lonergan",
+		"budget": "72.5 million USD",
+		"review": "Kenneth Lonergan, a brilliant playwright and a sought-after script doctor, is a master of the quotidian absurd.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 15,
+		"title": "Fences",
+		"image": "./img/movies/fences.jpg",
+		"desc": "Troy Maxson (Denzel Washington) makes his living as a sanitation worker in 1950s Pittsburgh. Maxson once dreamed of becoming a professional baseball player, but was deemed too old when the major leagues began admitting black athletes. Bitter over his missed opportunity, Troy creates further tension in his family when he squashes his son's (Jovan Adepo) chance to meet a college football recruiter.",
+		"year": 2016,
+		"director": "Denzel Washington",
+		"budget": "64.2 million USD",
+		"review": "Fences has passages of fierce and moving power, but on screen the play comes off as episodic and more than a bit unwieldy.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 16,
+		"title": "La La Land",
+		"image": "./img/movies/lalala.jpg",
+		"desc": "Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+		"year": 2016,
+		"director": "Damien Chazelle",
+		"budget": "30 million USD",
+		"review": "La La Land isn't a masterpiece (and on some level it wants to be). Yet it's an elating ramble of a movie, ardent and full of feeling, passionate but also exquisitely controlled.",
+		"genres": "romance"
+	},
+
+	{
+		"id": 17,
+		"title": "Fantastic Beasts and Where to Find Them",
+		"image": "./img/movies/fantastic-beast.jpg",
+		"desc": "The year is 1926, and Newt Scamander (Eddie Redmayne) has just completed a global excursion to find and document an extraordinary array of magical creatures. Arriving in New York for a brief stopover, he might have come and gone without incident, were it not for a No-Maj (American for Muggle) named Jacob, a misplaced magical case, and the escape of some of Newt's fantastic beasts, which could spell trouble for both the wizarding and No-Maj worlds.",
+		"year": 2016,
+		"director": "David Yates",
+		"budget": "812.5 million USD",
+		"review": "As promised, the title critters in Fantastic Beasts are whimsically entertaining and occasionally as entrancing as those animals crawling through a medieval illuminated manuscript.",
+		"genres": "Action"
+	},
+
+	{
+		"id": 18,
+		"title": "Why Him?",
+		"image": "./img/movies/whyhim.jpg",
+		"desc": "During the holidays, loving but overprotective Ned (Bryan Cranston) travels to California to visit his daughter Stephanie (Zoey Deutch) at Stanford University. While there, he meets his biggest nightmare: her well-meaning but socially awkward boyfriend Laird (James Franco). Even though Laird is a billionaire, Ned disapproves of his freewheeling attitude and unfiltered language. His panic level escalates even further when he learns that Laird plans to ask for Stephanie's hand in marriage.",
+		"year": 2016,
+		"director": "John Hamburg",
+		"budget": "38 million USD",
+		"review": "Even though his personality is a goof, the joke carries a satirical kick. Franco gets more than a few chuckles out of playing a narcissist bro of the moment.",
+		"genres": "comedy"
+	},
+
+	{
+		"id": 19,
+		"title": "Silence",
+		"image": "./img/movies/silence.jpg",
+		"desc": "Two 17th-century Portuguese missionaries, Father Sebastian Rodrigues (Andrew Garfield) and Father Francisco Garupe (Adam Driver), embark on a perilous journey to Japan to find their missing mentor (Liam Neeson). While there, the two men minister to the Christian villagers who worship in secret. If caught by feudal lords or ruling samurai, they must renounce their faith or face a prolonged and agonizing death.",
+		"year": 2016,
+		"director": "Martin Scorsee",
+		"budget": "16 million USD",
+		"review": "Silence is as visually striking as you might expect, but also overly tidy, clean and decorous, despite its tortured flesh, its mud and its blood.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 20,
+		"title": "Moonlight",
+		"image": "./img/movies/moonlight.jpg",
+		"desc": "A look at three defining chapters in the life of Chiron, a young black man growing up in Miami. His epic journey to manhood is guided by the kindness, support and love of the community that helps raise him.",
+		"year": 2016,
+		"director": "Barry Jenkins",
+		"budget": "1.5 million USD",
+		"review": "Perhaps the most beautiful thing about Moonlight is its open-endedness, its resistance to easy summary or categorization.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 21,
+		"title": "Zootopia",
+		"image": "./img/movies/zootopia.jpg",
+		"desc": "From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps (Ginnifer Goodwin) becomes the first rabbit to join the police force, she quickly learns how tough it is to enforce the law. Determined to prove herself, Judy jumps at the opportunity to solve a mysterious case. Unfortunately, that means working with Nick Wilde (Jason Bateman), a wily fox who makes her job even harder.",
+		"year": 2016,
+		"director": "Byron Howard, Rich Moore",
+		"budget": "150 million USD",
+		"review": "As the first rabbit police officer in Zootopia, Judy Hopps is stuck writing parking tickets, but the ambitious bunny pokes her nose into a missing-mammal epidemic.",
+		"genres": "mystery"
+	},
+
+	{
+		"id": 22,
+		"title": "Lion",
+		"image": "./img/movies/lion.jpg",
+		"desc": "Five year old Saroo gets lost on a train which takes him thousands of miles across India, away from home and family. Saroo must learn to survive alone in Kolkata, before ultimately being adopted by an Australian couple. Twenty-five years later, armed with only a handful of memories, his unwavering determination, and a revolutionary technology known as Google Earth, he sets out to find his lost family and finally return to his first home.",
+		"year": 2016,
+		"director": "Garth Davis",
+		"budget": "130.2 million USD",
+		"review": "Paradoxically suggests that Saroo managed to go two decades without thinking much about his mother, only to become obsessed with finding her at just the moment the technology made that possible.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 23,
+		"title": "Captain America: Civil War",
+		"image": "./img/movies/civilwar.jpg",
+		"desc": "Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference. Iron Man (Robert Downey Jr.) sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner) must pick a side.",
+		"year": 2016,
+		"director": "Joe Russo, Anthony Russo",
+		"budget": "250 million USD",
+		"review": "For all the action and wit on display, there are mournful undercurrents to Civil War, much as there were to Winter Soldier before it.",
+		"genres": "action"
+	},
+
+	{
+		"id": 24,
+		"title": "Paterson",
+		"image": "./img/movies/paterson.jpg",
+		"desc": "Paterson (Adam Driver) is a hardworking bus driver in Paterson, N.J., who follows the same routine every day. He observes the city and listens to fragments of conversations while picking up and dropping off his passengers. Paterson also writes heartfelt poems in a notebook, walks his dog and drinks one beer in a bar after his shift is over. Waiting for him at home is Laura (Golshifteh Farahani), his beloved wife who champions his gift for writing.",
+		"year": 2016,
+		"director": "Jim Jarmusch",
+		"budget": "8.4 million USD",
+		"review": "Paterson is an extraordinarily humane film about the creative process, told on the smallest scale possible.",
+		"genres": "romance"
+	},
+
+	{
+		"id": 25,
+		"title": "Assassin's Creed",
+		"image": "./img/movies/acreed.jpg",
+		"desc": "Cal Lynch travels back in time to 15th-century Spain through a revolutionary technology that unlocks the genetic memories contained in his DNA. There, he lives out the experiences of Aguilar de Nerha, a distant relative who's also a member of the Assassins, a secret society that fights to protect free will from the power-hungry Templar Order. Transformed by the past, Cal begins to gain the knowledge and physical skills necessary to battle the oppressive organization in the present.",
+		"year": 2016,
+		"director": "Justin Kurzel",
+		"budget": "125 million USD",
+		"review": "It’s not unusual to see great European actors appearing in big-budget dreck, of course, but the participation of Fassbender (who also produced!) and Cotillard seems particularly unnecessary.",
+		"genres": "action"
+	},
+
+	{
+		"id": 26,
+		"title": "Deadpool",
+		"image": "./img/movies/deadpool.jpg",
+		"desc": "Wade Wilson (Ryan Reynolds) is a former Special Forces operative who now works as a mercenary. His world comes crashing down when evil scientist Ajax (Ed Skrein) tortures, disfigures and transforms him into Deadpool. The rogue experiment leaves Deadpool with accelerated healing powers and a twisted sense of humor. With help from mutant allies Colossus and Negasonic Teenage Warhead (Brianna Hildebrand), Deadpool uses his new skills to hunt down the man who nearly destroyed his life.",
+		"year": 2016,
+		"director": "Tim Miller",
+		"budget": "58 million USD",
+		"review": "Deadpool, much like its source material, is an irreverent, bloody, and riotous twist on the superhero genre - a must-see comic book movie experience.",
+		"genres": "action"
+	},
+
+	{
+		"id": 27,
+		"title": "Doctor Strange",
+		"image": "./img/movies/drstrange.jpg",
+		"desc": "Dr. Stephen Strange's (Benedict Cumberbatch) life changes after a car accident robs him of the use of his hands. When traditional medicine fails him, he looks for healing, and hope, in a mysterious enclave. He quickly learns that the enclave is at the front line of a battle against unseen dark forces bent on destroying reality. Before long, Strange is forced to choose between his life of fortune and status or leave it all behind to defend the world as the most powerful sorcerer in existence.",
+		"year": 2016,
+		"director": "Scott Derrickson",
+		"budget": "165 million USD",
+		"review": "Doctor Strange manages to expand the Marvel Cinematic Universe while also telling a satisfying story in its own isolated corner.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 28,
+		"title": "Hacksaw Ridge",
+		"image": "./img/movies/hacksaw.jpg",
+		"desc": "The true story of Pfc. Desmond T. Doss (Andrew Garfield), who won the Congressional Medal of Honor despite refusing to bear arms during WWII on religious grounds. Doss was drafted and ostracized by fellow soldiers for his pacifist stance but went on to earn respect and adoration for his bravery, selflessness and compassion after he risked his life -- without firing a shot -- to save 75 men in the Battle of Okinawa.",
+		"year": 2016,
+		"director": "Mel Gibson",
+		"budget": "40 million USD",
+		"review": "The film pretends to be a grim reckoning with the horrors of war, but it is also, true to its genre, a rousing celebration of the thrills of battle.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 29,
+		"title": "Office Christmas Party",
+		"image": "./img/movies/office-party.jpg",
+		"desc": "When the CEO (Jennifer Aniston) tries to close her hard-partying brother's (T.J. Miller) branch, he and his chief technical officer (Jason Bateman) must rally their co-workers and host an epic office Christmas party in an effort to impress a potential client and close a sale that will save their jobs.",
+		"year": 2016,
+		"director": "Josh Gordon, Will Speck",
+		"budget": "45 million USD",
+		"review": "Every second spent trying to justify the company's existence is a second not invested in making this the funniest Office Christmas Party it can possibly be.",
+		"genres": "comedy"
+	},
+
+	{
+		"id": 30,
+		"title": "Suicide Squad",
+		"image": "./img/movies/suicide-squad.jpg",
+		"desc": "Figuring they're all expendable, a U.S. intelligence officer decides to assemble a team of dangerous, incarcerated supervillains for a top-secret mission. Now armed with government weapons, Deadshot (Will Smith), Harley Quinn (Margot Robbie), Captain Boomerang, Killer Croc and other despicable inmates must learn to work together. Dubbed Task Force X, the criminals unite to battle a mysterious and powerful entity, while the diabolical Joker (Jared Leto) launches an evil agenda of his own.",
+		"year": 2016,
+		"director": "David Ayer",
+		"budget": "175 million USD",
+		"review": "As I hope I have made apparent, the storytelling that brings all these characters together so quickly is lazy to the point of professional negligence.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 31,
+		"title": "Finding Dory",
+		"image": "./img/movies/finding-dory.jpg",
+		"desc": "Dory (Ellen DeGeneres) is a wide-eyed, blue tang fish who suffers from memory loss every 10 seconds or so. The one thing she can remember is that she somehow became separated from her parents as a child. With help from her friends Nemo and Marlin, Dory embarks on an epic adventure to find them. Her journey brings her to the Marine Life Institute, a conservatory that houses diverse ocean species. Dory now knows that her family reunion will only happen if she can save mom and dad from captivity.",
+		"year": 2016,
+		"director": "Andrew Stanton, Angus MacLane, José Luis Angulo",
+		"budget": "1.028 billion USD",
+		"review": "Finding Dory argues, with lovely ingenuity and understatement, that what appear to be impairments might better be understood as strengths.",
+		"genres": "comedy"
+	},
+
+	{
+		"id": 32,
+		"title": "Patriots Day",
+		"image": "./img/movies/patriotsday.jpg",
+		"desc": "Tragedy strikes on April 15, 2013, when two bombs explode during the Boston Marathon. In the aftermath of the attack, police Sgt. Tommy Saunders (Mark Wahlberg), FBI Special Agent Richard DesLauriers (Kevin Bacon) and Commissioner Ed Davis (John Goodman) join courageous survivors, first responders and other investigators in a race against the clock to hunt down the suspects and bring them to justice.",
+		"year": 2016,
+		"director": "Peter Berg",
+		"budget": "45 million USD",
+		"review": "Patriots Day works so well on a dramatic level that my qualms were silenced almost entirely from the start.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 33,
+		"title": "Hell or High Water",
+		"image": "./img/movies/hellhigh.jpg",
+		"desc": "Toby is a divorced father who's trying to make a better life for his son. His brother Tanner is an ex-convict with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch. Standing in their way is Marcus, a Texas Ranger who's only weeks away from retirement. As the siblings plot their final robbery, they must also prepare for a showdown with a crafty lawman who's not ready to ride off into the sunset.",
+		"year": 2016,
+		"director": "David Mackenzie",
+		"budget": "12 million USD",
+		"review": "Brothers on a bank-robbing spree make their way through a desert of economic decline in Hell or High Water, a chase movie disguised as a western with a smashing Jeff Bridges as a Texas Ranger.",
+		"genres": "action"
+	},
+
+	{
+		"id": 34,
+		"title": "The Jungle Book",
+		"image": "./img/movies/junglebook.jpg",
+		"desc": "Raised by a family of wolves since birth, Mowgli (Neel Sethi) must leave the only home he's ever known when the fearsome tiger Shere Khan (Idris Elba) unleashes his mighty roar. Guided by a no-nonsense panther (Ben Kingsley) and a free-spirited bear (Bill Murray), the young boy meets an array of jungle animals, including a slithery python and a smooth-talking ape. Along the way, Mowgli learns valuable life lessons as his epic journey of self-discovery leads to fun and adventure.",
+		"year": 2016,
+		"director": "Jon Favreau",
+		"budget": "966 million USD",
+		"review": "Maintaining the buoyant heartbeat beneath all the digital flash, Favreau never loses sight of the fact that he's making an adventure story for children.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 35,
+		"title": "Moana",
+		"image": "./img/movies/moana.jpg",
+		"desc": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+		"year": 2016,
+		"director": "John Musker, Ron Clements",
+		"budget": "635.7 million USD",
+		"review": "As usual, you succumb to an enjoyable experience that splits the difference between mythology and merchandising.",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 36,
+		"title": "Kubo and the Two Strings",
+		"image": "./img/movies/twostrings.jpg",
+		"desc": "Young Kubo's (Art Parkinson) peaceful existence comes crashing down when he accidentally summons a vengeful spirit from the past. Now on the run, Kubo joins forces with Monkey (Charlize Theron) and Beetle (Matthew McConaughey) to unlock a secret legacy. Armed with a magical instrument, Kubo must battle the Moon King (Ralph Fiennes) and other gods and monsters to save his family and solve the mystery of his fallen father, the greatest samurai warrior the world has ever known.",
+		"year": 2016,
+		"director": "Travis Knight",
+		"budget": "74.5 million USD",
+		"review": "Whenever Kubo stumbles or slows down, audiences can always just sit back and feel the only thing that such ambitious animation can inspire: wonder.",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 37,
+		"title": "Trolls",
+		"image": "./img/movies/trolls.jpg",
+		"desc": "After the Bergens invade Troll Village, Poppy (Anna Kendrick), the happiest Troll ever born, and the overly-cautious, curmudgeonly Branch (Justin Timberlake) set off on a journey to rescue her friends. Their mission is full of adventure and mishaps, as this mismatched duo try to tolerate each other long enough to get the job done.",
+		"year": 2016,
+		"director": "Mike Mitchell",
+		"budget": "344.7 million USD",
+		"review": "Make no mistake: Kids are going to love this movie.",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 38,
+		"title": "The Secret Life of Pets",
+		"image": "./img/movies/life-of-pets.jpg",
+		"desc": "Max (Louis C.K.) is a spoiled terrier who enjoys a comfortable life in a New York building until his owner adopts Duke, a giant and unruly canine. During their walk outside, they encounter a group of ferocious alley cats and wind up in a truck that's bound for the pound. Luckily, a rebellious bunny named Snowball swoops in to save the doggy duo from captivity. In exchange, Snowball demands that Max and Duke join his gang of abandoned pets on a mission against the humans who've done them wrong.",
+		"year": 2016,
+		"director": "Chris Renaud, Yarrow Cheney",
+		"budget": "858.7 million USD",
+		"review": "Funny and engaging, with an excellent voice cast, this animated animal adventure will entertain audiences of all ages, with perhaps an extra dollop of appeal for devoted pet owners.",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 39,
+		"title": "Collateral Beauty",
+		"image": "./img/movies/collateral-beauty.jpg",
+		"desc": "When a successful New York advertising executive (Will Smith) suffers a great tragedy, he retreats from life. While his concerned friends try desperately to reconnect with him, he seeks answers from the universe by writing letters to Love, Time and Death. When his notes bring unexpected personal responses, he begins to understand how these constants interlock in a life fully lived and how even the deepest loss can reveal moments of meaning and beauty.",
+		"year": 2016,
+		"director": "David Frankel",
+		"budget": "87.4 million USD",
+		"review": "Collateral Beauty is a movie that insists grief can be beautiful.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 40,
+		"title": "Batman v Superman: Dawn of Justice",
+		"image": "./img/movies/batman-superman.jpg",
+		"desc": "It's been nearly two years since Superman's (Henry Cavill) colossal battle with Zod (Michael Shannon) devastated the city of Metropolis. The loss of life and collateral damage left many feeling angry and helpless, including crime-fighting billionaire Bruce Wayne (Ben Affleck). Convinced that Superman is now a threat to humanity, Batman embarks on a personal vendetta to end his reign on Earth, while the conniving Lex Luthor (Jesse Eisenberg) launches his own crusade against the Man of Steel.",
+		"year": 2016,
+		"director": "Zack Snyder",
+		"budget": "250 million USD",
+		"review": "This movie is less a free-standing film than the opening argument in a very long trial.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 41,
+		"title": "The Salesman",
+		"image": "./img/movies/salesman.jpg",
+		"desc": "After their flat becomes damaged, Emad (Shahab Hosseini) and Rana (Taraneh Alidoosti), a young couple living in Tehran, Iran, must move into another apartment. Once relocated, a sudden eruption of violence linked to the previous tenant of their new home dramatically changes their lives, creating a simmering tension between husband and wife.",
+		"year": 2016,
+		"director": "Asghar Farhadi",
+		"budget": "2.3 million USD",
+		"review": "Asghar Farhadi, the writer and director, builds a solid and suspenseful plot out of ordinary incidents, and packs it with rich and resonant ideas.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 42,
+		"title": "Star Trek Beyond",
+		"image": "./img/movies/star-trek.jpg",
+		"desc": "A surprise attack in outer space forces the Enterprise to crash-land on a mysterious world. The assault came from Krall (Idris Elba), a lizard-like dictator who derives his energy by sucking the life out of his victims. Krall needs an ancient and valuable artifact that's aboard the badly damaged starship. Left stranded in a rugged wilderness, Kirk (Chris Pine), Spock (Zachary Quinto) and the rest of the crew must now battle a deadly alien race while trying to find a way off their hostile planet.",
+		"year": 2016,
+		"director": "Justin Lee",
+		"budget": "343.5 million USD",
+		"review": "One of the abiding pleasures of “Star Trek,” in its old and newer iterations, lies in its balance of stubborn consistency and canny inventiveness",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 43,
+		"title": "Don't Breathe",
+		"image": "./img/movies/dont-breathe.jpg",
+		"desc": "Rocky (Jane Levy), Alex and Money are three Detroit thieves who get their kicks by breaking into the houses of wealthy people. Money gets word about a blind veteran who won a major cash settlement following the death of his only child. Figuring he's an easy target, the trio invades the man's secluded home in an abandoned neighborhood. Finding themselves trapped inside, the young intruders must fight for their lives after making a shocking discovery about their supposedly helpless victim.",
+		"year": 2016,
+		"director": "Fede Álvarez",
+		"budget": "9.9 million USD",
+		"review": "It will probably please fans of this simple genre with its solid suspense, murky lighting and “gotcha!” scares.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 44,
+		"title": "Miss Sloane",
+		"image": "./img/movies/sloane.jpg",
+		"desc": "Willing to bend the rules for her clients, Elizabeth Sloane (Jessica Chastain) remains one of the most sought-after lobbyists in Washington, D.C. When asked to help oppose a bill that imposes regulations on firearms, she instead joins a scrappy boutique firm that represents the backers of the law. Her defiant stance and determination to win now makes her the target of powerful new enemies who threaten her career and the people she cares about.",
+		"year": 2016,
+		"director": "John Madden",
+		"budget": "13 million USD",
+		"review": "Jessica Chastain rules Miss Sloane with such steely authority that you are hard-pressed to imagine another actress playing the imperious, largely unsympathetic title character.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 45,
+		"title": "The Monster Calls",
+		"image": "./img/movies/monster-calls.jpg",
+		"desc": "Conor (Lewis MacDougall) is dealing with far more than other boys his age. His beloved and devoted mother (Felicity Jones) is ill. He has little in common with his imperious grandmother. His father has resettled thousands of miles away. But Conor finds a most unlikely ally when the Monster (Liam Neeson) appears at his bedroom window one night. Ancient, wild, and relentless, the Monster guides Conor on a journey of courage, faith, and truth that powerfully fuses imagination and reality.",
+		"year": 2016,
+		"director": "J. A. Bayona",
+		"budget": "43 million USD",
+		"review": "A splendidly rendered, yet oddly ill-conceived terminal-illness melodrama that feels much too dark and serious for audiences Conor's age, and an even more curious fit for grown-ups.",
+		"genres": "comedy"
+	},
+
+	{
+		"id": 46,
+		"title": "The Nice Guys",
+		"image": "./img/movies/nice-guys.jpg",
+		"desc": "Holland March (Ryan Gosling) is a down-on-his-luck private eye in 1977 Los Angeles. Jackson Healy (Russell Crowe) is a hired enforcer who hurts people for a living. Fate turns them into unlikely partners after a young woman named Amelia (Margaret Qualley) mysteriously disappears. Healy and March soon learn the hard way that some dangerous people are also looking for Amelia. Their investigation takes them to dark places as anyone else who gets involved in the case seems to wind up dead.",
+		"year": 2016,
+		"director": "Shane Black",
+		"budget": "50 million USD",
+		"review": "In spite of all its restless detective work, The Nice Guys is unable to track down a soul or a reason for being.",
+		"genres": "mystery"
+	},
+
+	{
+		"id": 47,
+		"title": "Live by Night",
+		"image": "./img/movies/live-by-night.jpg",
+		"desc": "It's the Roaring `20s and Prohibition hasn't stopped the flow of booze in an underground network of gangster-run speakeasies. The opportunity to gain power and money is there for any man with enough ambition and nerve, and Joe Coughlin, the son of the Boston Police superintendent, long ago turned his back on his strict upbringing for the spoils of being an outlaw. But even among criminals there are rules, and Joe breaks a big one: crossing a powerful mob boss by stealing his money and his moll.",
+		"year": 2016,
+		"director": "Ben Affleck",
+		"budget": "65 million USD",
+		"review": "It's like seeing the ghost of a terrific movie: All the pieces are in place, yet as you're watching it (or thinking back on it afterwards), there doesn't seem to be quite enough there there.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 48,
+		"title": "Allied",
+		"image": "./img/movies/allied.jpg",
+		"desc": "Max Vatan (Brad Pitt) and Marianne Beauséjour (Marion Cotillard) are World War II operatives who never reveal their true identities. After falling in love during a risky mission, they hope to leave all that double-dealing behind them and start new lives. Instead, suspicion and danger envelop their marriage as both husband and wife become pitted against each other in an escalating, potentially lethal test that has global consequences.",
+		"year": 2016,
+		"director": "Robert Zemeckis",
+		"budget": "85 million USD",
+		"review": "It’s not so much a work of art as a triumph of craft, and therefore a reminder of the deep pleasures of old-fashioned technique and long experience.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 49,
+		"title": "The Legend of Tarzan",
+		"image": "./img/movies/tarzan.jpg",
+		"desc": "It's been nearly a decade since Tarzan (Alexander Skarsgård), also known as John Clayton III, left Africa to live in Victorian England with his wife Jane. Danger lurks on the horizon as Leon Rom (Christoph Waltz), a treacherous envoy for King Leopold, devises a scheme that lures the couple to the Congo. Rom plans to capture Tarzan and deliver him to an old enemy in exchange for diamonds. When Jane becomes a pawn in his devious plot, Tarzan must return to the jungle to save the woman he loves.",
+		"year": 2016,
+		"director": "David Yates",
+		"budget": "356.7 million USD",
+		"review": "What makes it more enjoyable than a lot of recycled stories of this type is that the filmmakers have given Tarzan a thoughtful, imperfect makeover.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 50,
+		"title": "Independence Day: Resurgence",
+		"image": "./img/movies/independence-day.jpg",
+		"desc": "As the Fourth of July nears, satellite engineer David Levinson (Jeff Goldblum) investigates a 3,000-mile-wide mother ship that's approaching Earth. Fortunately, 20 years earlier, nations across the world started to use recovered extraterrestrial technology to develop an immense defense program. When the alien invaders attack with unprecedented force, the U.S. president, teams of scientists and brave fighter pilots spring into action to save the planet from a seemingly invincible enemy.",
+		"year": 2016,
+		"director": "Roland Emmerich",
+		"budget": "165 million USD",
+		"review": "Breaks far less ground than its alien invaders, but confirms director Roland Emmerich as modern cinema's most spirited conductor of popcorn chaos.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 51,
+		"title": "Mad Max: Fury Road",
+		"image": "./img/movies/madmax.jpg",
+		"desc": "Years after the collapse of civilization, the tyrannical Immortan Joe enslaves apocalypse survivors inside the desert fortress the Citadel. When the warrior Imperator Furiosa (Charlize Theron) leads the despot's five wives in a daring escape, she forges an alliance with Max Rockatansky (Tom Hardy), a loner and former captive. Fortified in the massive, armored truck the War Rig, they try to outrun the ruthless warlord and his henchmen in a deadly high-speed chase through the Wasteland.",
+		"year": 2015,
+		"director": "George Miller",
+		"budget": "378.9 million USD",
+		"review": "There is much to enjoy about this adrenaline-fuelled reboot, but two hours of relentless action can get a bit tiresome Charlize Theron: Women will survive the apocalypse.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 52,
+		"title": "The Martian",
+		"image": "./img/movies/martian.jpg",
+		"desc": "When astronauts blast off from the planet Mars, they leave behind Mark Watney (Matt Damon), presumed dead after a fierce storm. With only a meager amount of supplies, the stranded visitor must utilize his wits and spirit to find a way to survive on the hostile planet. Meanwhile, back on Earth, members of NASA and a team of international scientists work tirelessly to bring him home, while his crew mates hatch their own plan for a daring rescue mission.",
+		"year": 2015,
+		"director": "Ridley Scott",
+		"budget": "630.2 million USD",
+		"review": "Ridley Scott is a brilliant assembler of casts, and he knows how to organize groups so they seem to naturally fit, and can bob and weave in unison with his roving cameras.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 53,
+		"title": "The Revenant",
+		"image": "./img/movies/revenant.jpg",
+		"desc": "While exploring the uncharted wilderness in 1823, frontiersman Hugh Glass (Leonardo DiCaprio) sustains life-threatening injuries from a brutal bear attack. When a member (Tom Hardy) of his hunting team kills his young son (Forrest Goodluck) and leaves him for dead, Glass must utilize his survival skills to find a way back to civilization. Grief-stricken and fueled by vengeance, the legendary fur trapper treks through the snowy terrain to track down the man who betrayed him.",
+		"year": 2015,
+		"director": "Alejandro González Iñárritu",
+		"budget": "533 million USD",
+		"review": "The Revenant is an American foundation story, by turns soaring and overblown.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 54,
+		"title": "Star Wars: The Force Awakens",
+		"image": "./img/movies/force-awakens.jpg",
+		"desc": "Star Wars: The Force Awakens is a 2015 American epic science fiction film directed, co-produced, and co-written by J. J. ",
+		"year": 2015,
+		"director": "J.J. Abrams",
+		"budget": "2.066 billion USD",
+		"review": "Star Wars 7: The Force Awakens is a welcome comeback movie for the franchise, and fan love will be enough to propel most viewers past its flaws.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 55,
+		"title": "Inside Out",
+		"image": "./img/movies/inside-out.jpg",
+		"desc": "Riley (Kaitlyn Dias) is a happy, hockey-loving 11-year-old Midwestern girl, but her world turns upside-down when she and her parents move to San Francisco. Riley's emotions -- led by Joy (Amy Poehler) -- try to guide her through this difficult, life-changing event. However, the stress of the move brings Sadness (Phyllis Smith) to the forefront. When Joy and Sadness are inadvertently swept into the far reaches of Riley's mind, the only emotions left in Headquarters are Anger, Fear and Disgust.",
+		"year": 2015,
+		"director": "Pete Docter, Ronnie del Carmen",
+		"budget": "857.6 million USD",
+		"review": "Inside Out, which takes place mostly in the head of an 11-year-old girl named Riley, is a thrilling return to form for Pixar Animation Studios.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 56,
+		"title": "Jurassic World",
+		"image": "./img/movies/jurassic-world.jpg",
+		"desc": "Located off the coast of Costa Rica, the Jurassic World luxury resort provides a habitat for an array of genetically engineered dinosaurs, including the vicious and intelligent Indominus rex. When the massive creature escapes, it sets off a chain reaction that causes the other dinos to run amok. Now, it's up to a former military man and animal expert (Chris Pratt) to use his special skills to save two young brothers and the rest of the tourists from an all-out, prehistoric assault.",
+		"year": 2015,
+		"director": "Colin Trevorrow",
+		"budget": "1.67 billion USD",
+		"review": "An undeniably vigorous assault of jaw-chomping jolts and Spielbergian family bonding that nevertheless captures only a fraction of the original film's overflowing awe and wonderment.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 57,
+		"title": "Avengers: Age of Ultron",
+		"image": "./img/movies/avengers-ultron.jpg",
+		"desc": "When Tony Stark (Robert Downey Jr.) jump-starts a dormant peacekeeping program, things go terribly awry, forcing him, Thor (Chris Hemsworth), the Incredible Hulk (Mark Ruffalo) and the rest of the Avengers to reassemble. As the fate of Earth hangs in the balance, the team is put to the ultimate test as they battle Ultron, a technological terror hell-bent on human extinction. Along the way, they encounter two mysterious and powerful newcomers, Pietro and Wanda Maximoff.",
+		"year": 2015,
+		"director": "Joss Whedon",
+		"budget": "1.405 billion USD",
+		"review": "The follow-up to The Avengers may be the harbinger of a new deluge of superhero movies, but if all turn out as entertaining as this one, what’s the problem?",
+		"genres": "action"
+	},
+
+	{
+		"id": 58,
+		"title": "Room",
+		"image": "./img/movies/room.jpg",
+		"desc": "Held captive for years in an enclosed space, a woman (Brie Larson) and her young son (Jacob Tremblay) finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+		"year": 2015,
+		"director": "Lenny Abrahamson",
+		"budget": "36.3 million USD",
+		"review": "A suspenseful and heartrending drama that finds perhaps the most extreme possible metaphor for how time, regret and the end of childhood can make unknowing captives of us all.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 59,
+		"title": "The Hateful Eight",
+		"image": "./img/movies/hateful-eight.jpg",
+		"desc": "While racing toward the town of Red Rock in post-Civil War Wyoming, bounty hunter John The Hangman Ruth (Kurt Russell) and his fugitive prisoner (Jennifer Jason Leigh) encounter another bounty hunter (Samuel L. Jackson) and a man who claims to be a sheriff. Hoping to find shelter from a blizzard, the group travels to a stagecoach stopover located on a mountain pass. Greeted there by four strangers, the eight travelers soon learn that they may not make it to their destination after all.",
+		"year": 2015,
+		"director": "Quentin Tarantino",
+		"budget": "155.8 million USD",
+		"review": "Mr. Tarantino’s western tale of vengeance settles outlaws and bounty hunters around the fire to chat — until it’s time to start killing one another.",
+		"genres": "mystery"
+	},
+
+	{
+		"id": 60,
+		"title": "Carol",
+		"image": "./img/movies/carol.jpg",
+		"desc": "Therese Belivet (Rooney Mara) spots the beautiful, elegant Carol (Cate Blanchett) perusing the doll displays in a 1950s Manhattan department store. The two women develop a fast bond that becomes a love with complicated consequences.",
+		"year": 2015,
+		"director": "Todd Haynes",
+		"budget": "11.8 million USD",
+		"review": "Haynes' commitment to outcasts, then and now, makes Carol a romantic spellbinder that cuts deep.",
+		"genres": "romance"
+	},
+
+	{
+		"id": 61,
+		"title": "Trainwreck",
+		"image": "./img/movies/trainwreck.jpg",
+		"desc": "Ever since her father drilled into her head that monogamy isn't realistic, magazine writer Amy (Amy Schumer) has made promiscuity her credo. As much as she enjoys an uninhibited life free of commitment, Amy is really in a rut. While writing a profile about charming and successful sports doctor Aaron Conners (Bill Hader), she finds herself actually falling in love for the first time -- and what's more, Aaron seems to like her too. Amy starts to wonder if it's time to clean up her act.",
+		"year": 2015,
+		"director": "Judd Apatow",
+		"budget": "140.8 million USD",
+		"review": "The romantic comedy packed with pop-cultural references and edged with social critique.",
+		"genres": "romance"
+	},
+
+	{
+		"id": 62,
+		"title": "Ex Machina",
+		"image": "./img/movies/ex-machina.jpg",
+		"desc": "Caleb Smith (Domhnall Gleeson) a programmer at a huge Internet company, wins a contest that enables him to spend a week at the private estate of Nathan Bateman (Oscar Isaac), his firm's brilliant CEO. When he arrives, Caleb learns that he has been chosen to be the human component in a Turing test to determine the capabilities and consciousness of Ava (Alicia Vikander), a beautiful robot. However, it soon becomes evident that Ava is far more self-aware and deceptive than either man imagined.",
+		"year": 2015,
+		"director": "Alex Garland",
+		"budget": "15 million USD",
+		"review": "Ex Machina is a slyly spooky futuristic shocker about old and new desires.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 63,
+		"title": "The Good Dinosaur",
+		"image": "./img/movies/good-dinosaur.jpg",
+		"desc": "Luckily for young Arlo, his parents (Jeffrey Wright, Frances McDormand) and his two siblings, the mighty dinosaurs were not wiped out 65 million years ago. When a rainstorm washes poor Arlo (Raymond Ochoa) downriver, he ends up bruised, battered and miles away from home. Good fortune shines on the frightened dino when he meets Spot (Jack Bright), a Neanderthal boy who offers his help and friendship. Together, the unlikely duo embark on an epic adventure to reunite Arlo with his beloved family.",
+		"year": 2015,
+		"director": "Peter Sohn",
+		"budget": "175 million USD",
+		"review": "The Good Dinosaur has a few things on its mind, but its tone is overwhelmingly playful, not hectoring",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 64,
+		"title": "Spectre",
+		"image": "./img/movies/spectre.jpg",
+		"desc": "A cryptic message from the past leads James Bond (Daniel Craig) to Mexico City and Rome, where he meets the beautiful widow (Monica Bellucci) of an infamous criminal. After infiltrating a secret meeting, 007 uncovers the existence of the sinister organization SPECTRE. Needing the help of the daughter of an old nemesis, he embarks on a mission to find her. As Bond ventures toward the heart of SPECTRE, he discovers a chilling connection between himself and the enemy (Christoph Waltz) he seeks.",
+		"year": 2015,
+		"director": "Sam Mendes",
+		"budget": "880.7 million USD",
+		"review": "While there are plenty of pleasures to be found scattered across Spectre’s exorbitant two-and-a-half-hour running time, the movie loses momentum at at each stop and is flagging by its conclusion.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 65,
+		"title": "Mission: Impossible – Rogue Nation",
+		"image": "./img/movies/mission-imp.jpg",
+		"desc": "With the IMF now disbanded and Ethan Hunt (Tom Cruise) out in the cold, a new threat -- called the Syndicate -- soon emerges. The Syndicate is a network of highly skilled operatives who are dedicated to establishing a new world order via an escalating series of terrorist attacks. Faced with what may be the most impossible mission yet, Ethan gathers his team and joins forces with Ilsa Faust (Rebecca Ferguson), a disavowed British agent who may or may not be a member of this deadly rogue nation.",
+		"year": 2015,
+		"director": "Christopher McQuarrie",
+		"budget": "150 million USD",
+		"review": "Sleek and bloated, specific and generic, Rogue Nation is pretty much like most of the “Impossible” movies.",
+		"genres": "action"
+	},
+
+	{
+		"id": 66,
+		"title": "Furious 7",
+		"image": "./img/movies/furious7.jpg",
+		"desc": "After defeating international terrorist Owen Shaw, Dominic Toretto (Vin Diesel), Brian O'Conner (Paul Walker) and the rest of the crew have separated to return to more normal lives. However, Deckard Shaw (Jason Statham), Owen's older brother, is thirsty for revenge. A slick government agent offers to help Dom and company take care of Shaw in exchange for their help in rescuing a kidnapped computer hacker who has developed a powerful surveillance program.",
+		"year": 2015,
+		"director": "James Wan",
+		"budget": "1.516 billion USD",
+		"review": "Two-plus-hours of increasingly outlandish vehicular (and aerobatic) mayhem that revs pulses and engines in roughly equal measure.",
+		"genres": "action"
+	},
+
+	{
+		"id": 67,
+		"title": "Terminator Genisys",
+		"image": "./img/movies/terminator.jpg",
+		"desc": "When John Connor (Jason Clarke), leader of the human resistance against Skynet, sends Kyle Reese (Jai Courtney) back to 1984 to protect his mother, Sarah (Emilia Clarke), from a Terminator assassin, an unexpected turn of events creates an altered timeline. Instead of a scared waitress, Sarah is a skilled fighter and has a Terminator guardian (Arnold Schwarzenegger) by her side. Faced with unlikely allies and dangerous new enemies, Reese sets out on an unexpected new mission: reset the future.",
+		"year": 2015,
+		"director": "Alan Taylor",
+		"budget": "440.6 million USD",
+		"review": "Terminator Genisys is a good entry point for new viewers, with worthwhile setup for future installments, but falls short in evolving core elements of the series.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 68,
+		"title": "Ant-Man",
+		"image": "./img/movies/antman.jpg",
+		"desc": "Forced out of his own company by former protégé Darren Cross, Dr. Hank Pym (Michael Douglas) recruits the talents of Scott Lang (Paul Rudd), a master thief just released from prison. Lang becomes Ant-Man, trained by Pym and armed with a suit that allows him to shrink in size, possess superhuman strength and control an army of ants. The miniature hero must use his new skills to prevent Cross, also known as Yellowjacket, from perfecting the same technology and using it as a weapon for evil.",
+		"year": 2015,
+		"director": "Peyton Reed",
+		"budget": "130 million USD",
+		"review": "This enjoyably off-the-cuff franchise starter takes a cue from its incredible shrinking protagonist.",
+		"genres": "action"
+	},
+
+	{
+		"id": 69,
+		"title": "Tomorrowland",
+		"image": "./img/movies/tomorrowland.jpg",
+		"desc": "Whenever Casey Newton (Britt Robertson) touches a lapel pin with the letter T on it, she finds herself transported to Tomorrowland, a city filled with huge robots and sleek buildings. The gifted young woman recruits the help of scientist Frank Walker (George Clooney), a previous visitor to Tomorrowland, who years ago made a startling discovery about the future. Together, the two adventurers travel to the metropolis to uncover its mysterious secrets.",
+		"year": 2015,
+		"director": "Brad Bird",
+		"budget": "190 million USD",
+		"review": "A kid-skewing adventure saga that, for all its initial narrative intrigue and visual splendor, winds up feeling like a hollow, hucksterish Trojan horse of a movie.",
+		"genres": "action"
+	},
+
+	{
+		"id": 70,
+		"title": "Black Mass",
+		"image": "./img/movies/black-mass.jpg",
+		"desc": "While his brother Bill (Benedict Cumberbatch) remains a powerful leader in the Massachusetts Senate, Irish hoodlum James Whitey Bulger (Johnny Depp) continues to pursue a life of crime in 1970s Boston. Approached by FBI agent John Connolly (Joel Edgerton), the lawman convinces Whitey to help the agency fight the Italian mob. As their unholy alliance spirals out of control, Bulger increases his power and evades capture to become one of the most dangerous gangsters in U.S. history.",
+		"year": 2015,
+		"director": "Scott Cooper",
+		"budget": "100 million USD",
+		"review": "Sober, sprawling, deeply engrossing evocation of Bulger's South Boston fiefdom and his complex relationship with the FBI agent John Connolly,",
+		"genres": "action"
+	},
+
+	{
+		"id": 71,
+		"title": "Cinderella",
+		"image": "./img/movies/cinderella.jpg",
+		"desc": "After her father unexpectedly dies, young Ella (Lily James) finds herself at the mercy of her cruel stepmother (Cate Blanchett) and stepsisters, who reduce her to scullery maid. Despite her circumstances, she refuses to despair. An invitation to a palace ball gives Ella hope that she might reunite with the dashing stranger (Richard Madden) she met in the woods, but her stepmother prevents her from going. Help arrives in the form of a kindly beggar woman who has a magic touch for ordinary things.",
+		"year": 2015,
+		"director": "Kenneth Branagh",
+		"budget": "543.5 million USD",
+		"review": "While the music of the animated original is missed, almost everything about this film is well done.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 72,
+		"title": "Southpaw",
+		"image": "./img/movies/southpaw.jpg",
+		"desc": "Billy The Great Hope (Jake Gyllenhaal), the reigning junior middleweight boxing champion, has an impressive career, a loving wife and daughter, and a lavish lifestyle. However, when tragedy strikes, Billy hits rock bottom, losing his family, his house and his manager. He soon finds an unlikely savior in Tick Willis (Forest Whitaker), a former fighter who trains the city's toughest amateur boxers. With his future on the line, Hope fights to reclaim the trust of those he loves the most.",
+		"year": 2015,
+		"director": "Antoine Fuqua",
+		"budget": "92 million USD",
+		"review": "The undeniable intensity of Gyllenhaal's bulked-up, Method-mumbling performance may leave you feeling more pummeled than convinced.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 73,
+		"title": "Minions",
+		"image": "./img/movies/minions.jpg",
+		"desc": "Evolving from single-celled yellow organisms at the dawn of time, Minions live to serve, but find themselves working for a continual series of unsuccessful masters, from T. Rex to Napoleon. Without a master to grovel for, the Minions fall into a deep depression. But one minion, Kevin, has a plan; accompanied by his pals Stuart and Bob, Kevin sets forth to find a new evil boss for his brethren to follow. Their search leads them to Scarlet Overkill, the world's first-ever super-villainess.",
+		"year": 2015,
+		"director": "Pierre Coffin, Kyle Balda",
+		"budget": "1.159 billion USD",
+		"review": "While “Minions” explores nominally new narrative ground, it folds neatly into a series.",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 74,
+		"title": "Joy",
+		"image": "./img/movies/joy.jpg",
+		"desc": "A story of a family across four generations, centered on the girl who becomes the woman (Jennifer Lawrence) who founds a business dynasty and becomes a matriarch in her own right. Facing betrayal, treachery, the loss of innocence and the scars of love, Joy becomes a true boss of family and enterprise. Allies become adversaries and adversaries become allies, both inside and outside the family, as Joy's inner life and fierce imagination carry her through the storm she faces.",
+		"year": 2015,
+		"director": "David O. Russell",
+		"budget": "101.1 million USD",
+		"review": "The camera never stops moving in Joy, the people never shut up, and the resulting buzz is both stimulating and enervating.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 75,
+		"title": "Brooklyn",
+		"image": "./img/movies/brooklyn.jpg",
+		"desc": "Young Irish immigrant Eilis Lace (Saoirse Ronan) navigates her way through 1950s Brooklyn. Lured by the promise of America, Eilis departs Ireland and the comfort of her mother's home for the shores of New York City. The initial shackles of homesickness quickly diminish as a fresh romance sweeps Eilis into the intoxicating charm of love. But soon, her past disrupts her new vivacity, and Eilis must choose between two countries and the lives that exist within.",
+		"year": 2015,
+		"director": "John Crowley",
+		"budget": "11 million USD",
+		"review": "No hipsters here: In Brooklyn, a young Irishwoman looks for her future in Eisenhower-era America. And she's not making artisanal pickles!",
+		"genres": "romance"
+	},
+
+	{
+		"id": 76,
+		"title": "Spy",
+		"image": "./img/movies/spy.jpg",
+		"desc": "Despite having solid field training, CIA analyst Susan Cooper (Melissa McCarthy) has spent her entire career as a desk jockey, working hand-in-hand with dashing agent Bradley Fine (Jude Law). Using high-tech equipment and a hidden earpiece, Susan is the guardian angel who helps Bradley avoid danger. However, when Bradley is assassinated by Bulgarian arms dealer Rayna Boyanov (Rose Byrne), Susan wrangles her way into her first undercover assignment to help capture Boyanov and avenge Bradley.",
+		"year": 2015,
+		"director": "Paul Feig",
+		"budget": "235.7 million USD",
+		"review": "An uproarious blast of globe-trotting action-comedy delirium that doesn't spoof the espionage-thriller genre so much as drop a series of banana peels in its path.",
+		"genres": "action"
+	},
+
+	{
+		"id": 77,
+		"title": "Anomalisa",
+		"image": "./img/movies/anomalisa.jpg",
+		"desc": "An inspirational speaker (David Thewlis) becomes reinvigorated after meeting a lively woman (Jennifer Jason Leigh) who shakes up his mundane existence.",
+		"year": 2015,
+		"director": "Charlie Kaufman, Duke Johnson",
+		"budget": "5.5 million USD",
+		"review": "Charlie Kaufman’s gift for quotidian horror remains startling; he’s a whiz at minor miseries.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 78,
+		"title": "The Man from U.N.C.L.E.",
+		"image": "./img/movies/uncle.jpg",
+		"desc": "At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo (Henry Cavill) and KGB agent Illya Kuryakin (Armie Hammer) are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo's only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.",
+		"year": 2015,
+		"director": "Guy Ritchie",
+		"budget": "109.8 million USD",
+		"review": "The movie opens in 1963 but tries hard not to be a museum piece, partly with a slick, agitated style.",
+		"genres": "action"
+	},
+
+	{
+		"id": 79,
+		"title": "The Hunger Games: Mockingjay – Part 2",
+		"image": "./img/movies/mockingjay.jpg",
+		"desc": "Realizing the stakes are no longer just for survival, Katniss Everdeen (Jennifer Lawrence) teams up with her closest friends, including Peeta (Josh Hutcherson), Gale (Liam Hemsworth) and Finnick for the ultimate mission. Together, they leave District 13 to liberate the citizens of war-torn Panem and assassinate President Snow, who's obsessed with destroying Katniss. What lies ahead are mortal traps, dangerous enemies and moral choices that will ultimately determine the future of millions.",
+		"year": 2015,
+		"director": "Francis Lawrence",
+		"budget": "653.4 millions USD",
+		"review": "The Hunger Games: Mockingjay—Part 2 is the least enjoyable of the films by a considerable margin, a dull, grim, slow-moving slog.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 80,
+		"title": "Legend",
+		"image": "./img/movies/legend.jpg",
+		"desc": "Suave, charming and volatile, Reggie Kray (Tom Hardy) and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard Nipper Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.",
+		"year": 2015,
+		"director": "Brian Helgeland",
+		"budget": "43 million USD",
+		"review": "Tom Hardy and Tom Hardy are the reasons to see Legend.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 81,
+		"title": "San Andreas",
+		"image": "./img/movies/san-andreas.jpg",
+		"desc": "A seemingly ideal day turns disastrous when California's notorious San Andreas fault triggers a devastating, magnitude 9 earthquake, the largest in recorded history. As the Earth cracks open and buildings start to crumble, Ray Gaines (Dwayne Johnson), an LAFD search-and-rescue helicopter pilot, must navigate the destruction from Los Angeles to San Francisco to bring his estranged wife (Carla Gugino) and their only daughter (Alexandra Daddario) to safety.",
+		"year": 2015,
+		"director": "Brad Peyton",
+		"budget": "110 million USD",
+		"review": "The disaster pic promises nothing more than the complete CGI destruction of California as foregrounded by Dwayne Johnson's jackfruit-sized biceps, and it delivers exactly that.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 82,
+		"title": "The Peanuts Movie",
+		"image": "./img/movies/peanuts.jpg",
+		"desc": "Life always seems complicated for good ol' Charlie Brown (Noah Schnapp), the boy who always tries his best against seemingly impossible odds. When the Little Red-Haired Girl moves into his neighborhood, Charlie Brown develops a crush on her. Meanwhile, his best friend Snoopy embarks on an epic adventure in a fantasy world. As a World War I flying ace, the lovable beagle pursues his nemesis, the Red Baron, while also trying to win the heart of a beautiful poodle named Fifi (Kristin Chenoweth).",
+		"year": 2015,
+		"director": "Steve Martino",
+		"budget": "99 million USD",
+		"review": "Sweet, gentle, and nostalgic in tone (there's nary a smartphone to be seen! ), The Peanuts Movie does right by the classic comic strips and TV specials so beloved by fans.",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 83,
+		"title": "Jupiter Ascending",
+		"image": "./img/movies/jupiter.jpg",
+		"desc": "Jupiter Jones (Mila Kunis) was born under signs that predicted future greatness, but her reality as a woman consists of cleaning other people's houses and endless bad breaks. Caine (Channing Tatum), a genetically engineered hunter, arrives on Earth to locate her, making Jupiter finally aware of the great destiny that awaits her: Jupiter's genetic signature marks her as the next in line for an extraordinary inheritance that could alter the balance of the cosmos.",
+		"year": 2015,
+		"director": "Lana Wachowski, Lilly Wachowski",
+		"budget": "176 million USD",
+		"review": "A garish, Phantom Menace-esque space opera in which a lowly Russian cleaning lady (Mila Kunis) is born with DNA identical to that of the most powerful woman in the universe.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 84,
+		"title": "Everest",
+		"image": "./img/movies/everest.jpg",
+		"desc": "On the morning of May 10, 1996, climbers (Jason Clarke, Josh Brolin) from two expeditions start their final ascent toward the summit of Mount Everest, the highest point on Earth. With little warning, a violent storm strikes the mountain, engulfing the adventurers in one of the fiercest blizzards ever encountered by man. Challenged by the harshest conditions imaginable, the teams must endure blistering winds and freezing temperatures in an epic battle to survive against nearly impossible odds.",
+		"year": 2015,
+		"director": "Baltasar Kormákur",
+		"budget": "203.4 million USD",
+		"review": "Things don’t get better, only bigger, more in-your-face and more stomach-churning in director Baltasar Kormákur’s dramatization of the 1996 disaster that claimed eight lives on Mount Everest.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 85,
+		"title": "The Intern",
+		"image": "./img/movies/intern.jpg",
+		"desc": "Starting a new job can be a difficult challenge, especially if you're already retired. Looking to get back into the game, 70-year-old widower Ben Whittaker (Robert De Niro) seizes the opportunity to become a senior intern at an online fashion site. Ben soon becomes popular with his younger co-workers, including Jules Ostin (Anne Hathaway), the boss and founder of the company. Whittaker's charm, wisdom and sense of humor help him develop a special bond and growing friendship with Jules.",
+		"year": 2015,
+		"director": "Nancy Meyers",
+		"budget": "194.6 million USD",
+		"review": "The director Nancy Meyers doesn’t just make movies, she makes the kind of lifestyle fantasies you sink into like eiderdown.",
+		"genres": "comedy"
+	},
+
+	{
+		"id": 86,
+		"title": "45 Years",
+		"image": "./img/movies/years.jpg",
+		"desc": "As their 45th wedding anniversary approaches, a woman (Charlotte Rampling) learns that her husband (Tom Courtenay) was once engaged to someone else.",
+		"year": 2015,
+		"director": "Andrew Haigh",
+		"budget": "4.2 million USD",
+		"review": "45 Years is Andrew Haigh’s sensitive and devastating portrait of a long, happy marriage in sudden crisis.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 87,
+		"title": "Mistress America",
+		"image": "./img/movies/mistress-america.jpg",
+		"desc": "A college freshman (Lola Kirke) cures her disappointment and loneliness by allowing herself to be pulled into the wacky schemes of h",
+		"year": 2015,
+		"director": "Noah Baumbach",
+		"budget": "2.7 million USD",
+		"review": "Noah Baumbach’s “Mistress America” advertises itself as a screwball comedy. But this smart, fast-paced film is not really the zany, lighter-than-air divertissement that the term usually conjures.",
+		"genres": "comedy"
+	},
+
+	{
+		"id": 88,
+		"title": "Maze Runner: The Scorch Trials",
+		"image": "./img/movies/maze-runner.jpg",
+		"desc": "Transported to a remote fortified outpost, Thomas and his fellow teenage Gladers find themselves in trouble after uncovering a diabolical plot from the mysterious and powerful organization WCKD. With help from a new ally, the Gladers stage a daring escape into the Scorch, a desolate landscape filled with dangerous obstacles and crawling with the virus-infected Cranks. The Gladers only hope may be to find the Right Hand, a group of resistance fighters who can help them battle WCKD.",
+		"year": 2015,
+		"director": "Wes Ball",
+		"budget": "61 million USD",
+		"review": "Maze Runner: The Scorch Trials adds nothing new to the dystopian genre, but its many chases and ludicrous narrow escapes offer respectable doses of adrenaline.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 89,
+		"title": "The Last Witch Hunter",
+		"image": "./img/movies/witch-hunter.jpg",
+		"desc": "The modern world holds many secrets, the most astounding being that witches still live among us. Centuries ago, Kaulder (Vin Diesel) managed to slay the all-powerful Witch Queen, decimating her followers in the process. Before her death, she cursed the valiant warrior with her own immortality, separating him from his beloved wife and daughter in the afterlife. Her resurrection now threatens the survival of the human race as Kaulder, the only one of his kind remaining, faces her vengeful wrath.",
+		"year": 2015,
+		"director": "Breck Eisner",
+		"budget": "146.9 million USD",
+		"review": "Today’s effects-heavy fantasy films are generally made in halves or thirds, and The Last Witch Hunter is no exception.",
+		"genres": "action"
+	},
+
+	{
+		"id": 90,
+		"title": "Guardians of the Galaxy",
+		"image": "./img/movies/galaxy.jpg",
+		"desc": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
+		"year": 2014,
+		"director": "James Gunn",
+		"budget": "773.3 million USD",
+		"review": "Guardians of the Galaxy may blast off another successful franchise for Marvel, but it has a few parsecs left to go before it can truly claim greatness.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 91,
+		"title": "The Lego Movie",
+		"image": "./img/movies/lego.jpg",
+		"desc": "Emmet (Chris Pratt), an ordinary LEGO figurine who always follows the rules, is mistakenly identified as the Special -- an extraordinary being and the key to saving the world. He finds himself drafted into a fellowship of strangers who are on a mission to stop an evil tyrant's (Will Ferrell) plans to conquer the world. Unfortunately for Emmet, he is hopelessly -- and hilariously -- unprepared for such a task, but he'll give it his all nonetheless.",
+		"year": 2014,
+		"director": "Phil Lord, Chris Miller",
+		"budget": "469.2 million USD",
+		"review": "Movies based on toys aren't ever this good, and it's a testament to the veteran animation filmmakers that this one is so smart, humorous, and visually fun to watch.",
+		"genres": "adventure"
+	},
+
+	{
+		"id": 92,
+		"title": "Gone Girl",
+		"image": "./img/movies/gone-girl.jpg",
+		"desc": "In Carthage, Mo., former New York-based writer Nick Dunne (Ben Affleck) and his glamorous wife Amy (Rosamund Pike) present a portrait of a blissful marriage to the public. However, when Amy goes missing on the couple's fifth wedding anniversary, Nick becomes the prime suspect in her disappearance. The resulting police pressure and media frenzy cause the Dunnes' image of a happy union to crumble, leading to tantalizing questions about who Nick and Amy truly are.",
+		"year": 2014,
+		"director": "David Fincher",
+		"budget": "61 million USD",
+		"review": "Like the Paul Verhoeven movies it occasionally resembles, Gone Girl is a satire that doubles as tightly styled, perverse entertainment.",
+		"genres": "mystery"
+	},
+
+	{
+		"id": 93,
+		"title": "InterStellar",
+		"image": "./img/movies/interstellar.jpg",
+		"desc": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
+		"year": 2014,
+		"director": "Christopher Nolan",
+		"budget": "675 million USD",
+		"review": "Interstellar is an imaginative movie, but a heavy-handed mix of personal sacrifice and theoretical physics doesn't leave much room for subtle storytelling.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 94,
+		"title": "The Grand Budapest Hotel",
+		"image": "./img/movies/hotel.jpg",
+		"desc": "In the 1930s, the Grand Budapest Hotel is a popular European ski resort, presided over by concierge Gustave H. (Ralph Fiennes). Zero, a junior lobby boy, becomes Gustave's friend and protege. Gustave prides himself on providing first-class service to the hotel's guests, including satisfying the sexual needs of the many elderly women who stay there. When one of Gustave's lovers dies mysteriously, Gustave finds himself the recipient of a priceless painting and the chief suspect in her murder.",
+		"year": 2014,
+		"director": "Wes Anderson",
+		"budget": "25 million USD",
+		"review": "Another meticulously stylish and deadpan Wes Anderson movie that walks the fine line between masterpiece and folly.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 95,
+		"title": "Nightcrawler",
+		"image": "./img/movies/nightcrawler.jpg",
+		"desc": "Los Angeles denizen Louis Bloom (Jake Gyllenhaal) survives by scavenging and petty theft. He stumbles into a new career as a cameraman and -- armed with a camcorder and police scanner -- begins nocturnal forays across the city in search of shocking and grisly crimes. When he catches the eye of a shopworn news director (Rene Russo) who welcomes the chance to raise her station's ratings, Louis goes to increasingly greater lengths to catch the money shot.",
+		"year": 2014,
+		"director": "Dan Gilroy",
+		"budget": "50.3 million USD",
+		"review": "Nightcrawler pushes its cynicism about ratings-hungry news outlets so hard that it frequently crosses the line into overly blunt caricature.",
+		"genres": "thriller"
+	},
+
+	{
+		"id": 96,
+		"title": "Edge of Tomorrow",
+		"image": "./img/movies/edge.jpg",
+		"desc": "When Earth falls under attack from invincible aliens, no military unit in the world is able to beat them. Maj. William Cage (Tom Cruise), an officer who has never seen combat, is assigned to a suicide mission. Killed within moments, Cage finds himself thrown into a time loop, in which he relives the same brutal fight -- and his death -- over and over again. However, Cage's fighting skills improve with each encore, bringing him and a comrade (Emily Blunt) ever closer to defeating the aliens.",
+		"year": 2014,
+		"director": "Doug Liman",
+		"budget": "370.5 million USD",
+		"review": "As it stands, the uniqueness of the time reset premise and sci-fi action distinguish the film from so many others in the genre, and it is at least worth a matinée viewing on the big screen.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 97,
+		"title": "Captain America: The Winter Soldier",
+		"image": "./img/movies/soldier.jpg",
+		"desc": "After the cataclysmic events in New York with his fellow Avengers, Steve Rogers, aka Captain America (Chris Evans), lives in the nation's capital as he tries to adjust to modern times. An attack on a S.H.I.E.L.D. colleague throws Rogers into a web of intrigue that places the whole world at risk. Joining forces with the Black Widow (Scarlett Johansson) and a new ally, the Falcon, Rogers struggles to expose an ever-widening conspiracy, but he and his team soon come up against an unexpected enemy.",
+		"year": 2015,
+		"director": "Joe Russo, Anthony Russo",
+		"budget": "170 million USD",
+		"review": "Chris Evans has grown significantly in his role since The Avengers, and is far more appealing here",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 98,
+		"title": "The Imitation Game",
+		"image": "./img/movies/game.jpg",
+		"desc": "In 1939, newly created British intelligence agency MI6 recruits Cambridge mathematics alumnus Alan Turing (Benedict Cumberbatch) to crack Nazi codes, including Enigma -- which cryptanalysts had thought unbreakable. Turing's team, including Joan Clarke (Keira Knightley), analyze Enigma messages while he builds a machine to decipher them. Turing and team finally succeed and become heroes, but in 1952, the quiet genius encounters disgrace when authorities reveal he is gay and send him to prison.",
+		"year": 2014,
+		"director": "Morten Tyldum",
+		"budget": "14 million USD",
+		"review": "Benedict Cumberbatch once again proves the go-to man for bringing vulnerability and warmth to a chilly, slightly off-putting intellectual oddball.",
+		"genres": "drama"
+	},
+
+	{
+		"id": 99,
+		"title": "Big Hero 6",
+		"image": "./img/movies/hero.jpg",
+		"desc": "Robotics prodigy Hiro (Ryan Potter) lives in the city of San Fransokyo. Next to his older brother, Tadashi, Hiro's closest companion is Baymax (Scott Adsit), a robot whose sole purpose is to take care of people. When a devastating turn of events throws Hiro into the middle of a dangerous plot, he transforms Baymax and his other friends, Go Go Tamago (Jamie Chung), Wasabi (Damon Wayans Jr.), Honey Lemon (Genesis Rodriguez) and Fred (T.J. Miller) into a band of high-tech heroes.",
+		"year": 2014,
+		"director": "Don Hall, Chris Williams",
+		"budget": "657.8 million USD",
+		"review": "'Big Hero 6' combines Disney wonder and charm with Marvel awe and action to deliver a film that exhibits the best of both studios.",
+		"genres": "scifi"
+	},
+
+	{
+		"id": 100,
+		"title": "American Sniper",
+		"image": "./img/movies/sniper.jpg",
+		"desc": "U.S. Navy SEAL Chris Kyle (Bradley Cooper) takes his sole mission -- protect his comrades -- to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+		"year": 2014,
+		"director": "Clint Eastwood",
+		"budget": "547.4 million USD",
+		"review": "As the movie year rushes to redeem itself, it's a kick to see director Clint Eastwood back on his game.",
+		"genres": "drama"
+	}
+]
