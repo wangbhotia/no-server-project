@@ -1,4 +1,4 @@
-angular.module('moviedb').service('mainService', function($http){
+angular.module('devflix').service('mainService', function($http){
 
 	this.getMovies = function(){
 		return $http.get('data.json');

@@ -1,0 +1,16 @@
+   
+    <section class="main-content">
+        <div ng-repeat="movie in movies">
+<!--             <h2>{{movie.id}}</h2> -->
+            <!-- <h3>{{movie.title}}</h3> -->
+            <!-- <img style="width: 15%" ng-src="{{movie.image}}"> -->
+            <img class="movie-poster" ng-src="{{movie.image}}" ui-sref="details({id: movie.id})">
+<!--             <p>{{movie.desc}}</p>
+            <p>Year: {{movie.year}}</p>
+            <p>Director: {{movie.director}}</p>
+            <p>Budget: {{movie.budget}}</p>
+            <p>Genre: {{movie.genres}}</p>
+            <p>Review: <em>{{movie.review}}</em></p> -->
+            <!-- <hr> -->
+        </div>
+    </section>

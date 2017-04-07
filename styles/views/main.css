@@ -1,0 +1,13 @@
+
+.main-content {
+	display: flex;
+	flex-wrap: wrap;
+	/*justify-content: space-around;*/
+	/*flex-flow: row;*/
+}
+
+.movie-poster {
+	padding: 10px;
+	width: 300px;
+	height: auto;
+}
