@@ -1,13 +1,23 @@
 
 <header class="nav-content">
+
+<section class="left-menu">
   <nav>
-    <ul>
-      <li><a ui-sref="home"><img src="" alt="">DEVFLIX</a></li>
-      <li><a>Browse</a></li>
+      <li><a ui-sref="home"><img src="./img/site/devflix.png" alt="devflix"></a></li>
+      <li><a class="browse">Browse<i class="fa fa-sort-desc"></i></a></li>
       <li><a ui-sref="dvd">DVD</a></li>
-      <li><a>Search</a></li>
-      <i style="color: white" class="fa fa-bell"></i>
-      <li> <img src="../img/site/account.png"> <a ui-sref="account">Wang</a></li>
-    </ul>
   </nav>
+</section>
+
+<section class="right-menu">
+  <nav class="menu-image">
+      <li><i class="fa fa-search"></i></li>
+      <li><a>Search</a></li>
+      <li><i style="color: white" class="fa fa-bell"></i></li>
+      <li><img src="../img/site/account.png"></li>
+      <li><a class="acct-name" ui-sref="account">Wang</a><i class="fa fa-sort-desc"></i>
+</li>
+  </nav>
+</section>
+
 </header>

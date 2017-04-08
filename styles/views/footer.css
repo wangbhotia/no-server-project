@@ -1,0 +1,38 @@
+.footer {
+	padding-top: 115px;
+	max-width: 830px;
+	color: grey;
+	margin: 0 auto;
+	padding-bottom: 25px;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.links {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.links li {
+	list-style: none;
+	color: grey;
+	padding-bottom: 15px;
+}
+
+.footer .fa {
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.service-code {
+	padding: 10px;
+	background-color: #141414;
+	color: grey;
+	border: 1px solid grey;
+	margin: auto;
+}
+
+.copyright {
+	color: grey;
+	padding-top: 15px;
+}

@@ -1,9 +1,15 @@
 
+.cover {
+	background: url('../../img/site/allen.jpg') no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
 .main-content {
 	display: flex;
 	flex-wrap: wrap;
 	/*justify-content: space-around;*/
-	/*flex-flow: row;*/
+	flex-flow: row;
 }
 
 .movie-poster {
