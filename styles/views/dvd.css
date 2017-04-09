@@ -1,7 +1,88 @@
 .dvd-page {
-	background: #F3F3F3;
+	max-width: 955px;
+	margin: 0 auto;
+	padding-top: 50px;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; 
 }
 
-h1, h2, p {
-	color: #000;
+.table-poster {
+	padding-top: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
 }
+
+table th, td {
+	color: white;
+	font-size: 1.2em;
+	height: 55px;
+	vertical-align: middle;
+	text-align: center;
+	border-bottom: 1px solid white;
+}
+
+.td-text {
+	text-align: left;
+}
+
+.btn {
+	width: 105px;
+	height: 60px;
+	background: skyblue;
+}
+
+.btn2 {
+	margin-right: 3px;
+	padding-left: 3px;
+	width: 115px;
+	height: 75px;
+	background: #0062D5;
+}
+
+.small-poster {
+	text-align: center;
+	float: right
+}
+
+
+.four-poster img {
+	padding: 5px;
+}
+
+.get-started {
+	padding-top: 50px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.start-btn button {
+  border: 2px solid #0062D5;
+  padding: 11px 36px;
+  background: #0062D5;
+}
+
+.free-trial {
+	padding-left: 20px;
+	padding-top: 15px;
+}
+
+.faq {
+	padding-top: 60px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.left-quest, .right-quest {
+	max-width: 444px;
+}
+
+.faq h4 {
+	padding-bottom: 15px;
+}
+
+.faq p {
+	padding-bottom: 40px;
+}
+
+

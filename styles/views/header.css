@@ -1,10 +1,13 @@
-.nav-content {
-	display: flex;
-	/*flex-wrap: wrap;*/
-	justify-content: space-between;
-	background: #000;
-	/*opacity: 75%;*/
+.nab-bar {
+	position: fixed;
+	z-index: 10;
 	height: 72px;
+}
+
+.nav-content {
+	background: #000;
+	display: flex;
+	justify-content: space-between;
 	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; 
 }
 
@@ -57,4 +60,13 @@
 
 .browse {
 	color: #E50914;
+}
+
+.disc-format {
+	padding-top: 50px;
+	color: #fff;
+}
+
+.disc-format h3, input {
+	margin-top: 15px;
 }

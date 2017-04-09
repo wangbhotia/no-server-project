@@ -3,6 +3,7 @@
 	background: url('../../img/site/allen.jpg') no-repeat;
 	background-size: cover;
 	height: 100vh;
+	margin-bottom: 10px;
 }
 
 /*.main-content {
@@ -19,11 +20,12 @@
 .last {
 	display: flex;
 	flex-flow: row;
+	overflow-x: scroll;
 }
-
 
 .movie-poster {
-	padding: 10px;
-	width: 300px;
+	padding: 5px;
+	width: 250px;
 	height: auto;
 }
+
