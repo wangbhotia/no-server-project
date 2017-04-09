@@ -1,6 +1,6 @@
 angular.module('devflix').controller('detailsCtrl', function($scope, mainService, $stateParams, youtubeEmbedUtils){
 
-	$scope.youTest = 'JGSGhb8tzoA';
+	$scope.youTest = 'https://www.youtube.com/watch?v=44LdLqgOpjo';
 
 	$scope.getMovies = function(){
 		mainService.getMovies().then(function(response){

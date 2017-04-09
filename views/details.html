@@ -1,20 +1,26 @@
 
     <section class="movie-details">
         <div>
+            <div class="video">
+                <youtube-video video-url="youTest" player-width="'50%'" player-height="'550px'"></youtube-video>
+            </div>
 
-            <img class="movie-poster" ng-src="{{singleMovie.image}}">
-
-            <youtube-video video-id="youTest">YouTube Video</youtube-video>
-
-            <h2>{{singleMovie.id}}</h2>
-            <h3>{{singleMovie.title}}</h3>
-
-            <p>{{singleMovie.desc}}</p>
-            <p>Year: {{singleMovie.year}}</p>
-            <p>Director: {{singleMovie.director}}</p>
-            <p>Budget: {{singleMovie.budget}}</p>
-            <p>Genre: {{singleMovie.genres}}</p>
-            <p>Review: <em>{{singleMovie.review}}</em></p>
-            
+            <div class="video-info">
+                <div class="single-poster">
+                    <img class="movie-poster" ng-src="{{singleMovie.image}}">
+                </div>
+                <div class="movie-info">
+                    <h1><strong>{{singleMovie.title}}</strong></h1>
+                    <br>
+                    <p>{{singleMovie.desc}}</p>
+                    <br>
+                    <p><strong>YEAR:</strong> {{singleMovie.year}}</p>
+                    <p><strong>DIRECTOR:</strong> {{singleMovie.director}}</p>
+                    <p><strong>BUDGET:</strong> {{singleMovie.budget}}</p>
+                    <p><strong>GENRE:</strong> {{singleMovie.genres}}</p>
+                    <br>
+                    <p><strong>REVIEW:</strong> <em>{{singleMovie.review}}</em></p>
+                </div>
+            </div>    
         </div>
     </section>

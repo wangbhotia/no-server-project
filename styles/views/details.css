@@ -1,0 +1,38 @@
+.movie-details {
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	/*background: white;*/
+}
+
+.video {
+	background: #000;
+	display: flex;
+	justify-content: center;
+}
+
+.video-info {
+	max-width: 51%;
+	margin: 0 auto;
+	padding-top: 50px;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 3px solid grey;
+	/*border-right: 4px solid black;*/
+}
+
+.single-poster {
+	padding-right: 20px;
+}
+
+.movie-info {
+	padding-top: 10px;
+}
+
+.movie-info h1 {
+	text-transform: uppercase;
+}
+
+.movie-info p {
+	font-size: 1.1em;
+	letter-spacing: 1px;
+}
+

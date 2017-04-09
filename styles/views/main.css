@@ -5,12 +5,22 @@
 	height: 100vh;
 }
 
-.main-content {
+/*.main-content {
 	display: flex;
 	flex-wrap: wrap;
-	/*justify-content: space-around;*/
+	justify-content: space-around;
+	flex-flow: row;
+}*/
+
+.first, 
+.second, 
+.third, 
+.fourth, 
+.last {
+	display: flex;
 	flex-flow: row;
 }
+
 
 .movie-poster {
 	padding: 10px;
