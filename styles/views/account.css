@@ -1,0 +1,71 @@
+.account-page {
+	max-width: 955px;
+	margin: 0 auto;
+	padding-top: 50px;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.my-account {
+	font-size: 35px;
+	padding-bottom: 20px;
+}
+
+.option-size {
+	width: 266px;
+}
+
+.account-option {
+	padding-top: 10px;
+	color: grey;
+	font-size: 20px;
+}
+
+.cancel-mem {
+	border: 2px solid lightgrey;
+  padding: 11px 36px;
+  background: lightgrey;
+  color: black;
+  margin-top: 10px;
+}
+
+.membership {
+	display: flex;
+	flex-wrap: wrap;
+	/*justify-content: space-between;*/
+}
+
+.account-details {
+	width: 689px;
+	padding-top: 10px;
+}
+
+.left-info {
+	padding-bottom: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.right-info p {
+	padding-bottom: 10px;
+	text-align: right;
+	color: #0062D5;
+}
+
+.input-field {
+	height: 41px;
+	width: 250px;
+}
+
+.redeem-btn {
+	border: 2px solid lightgrey;
+  padding: 11px 36px;
+  background: lightgrey;
+  color: black;
+  margin-bottom: 30px;
+}
+
+.settings-info p {
+	color: #0062D5;
+	padding-bottom: 10px;
+}
