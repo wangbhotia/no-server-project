@@ -28,7 +28,7 @@ angular.module('devflix').controller('mainCtrl', function($scope, mainService){
 
 			for(var i = 40; i < $scope.movies.length - 40; i++){
 				third20.push($scope.movies[i]);
-				console.log($scope.thrid20)
+				// console.log($scope.thrid20)
 			}
 
 			$scope.thirdList = third20;
