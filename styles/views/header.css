@@ -1,7 +1,8 @@
-.nab-bar {
+.nav-bar {
 	position: fixed;
 	z-index: 10;
 	height: 72px;
+	width: 100%;
 }
 
 .nav-content {
@@ -15,17 +16,44 @@
 	text-decoration: none;
 }
 
+.nav-test {
+	display: flex;
+	align-items: center;
+}
+
 .left-menu {
-	display: table;
-	display: inline-block;
 	padding-left: 60px;
 	padding-top: 25px;
 }
 
-.left-menu li {
-	display: table-cell;
+.left-menu div, li {
+	list-style-type: none;
   vertical-align: middle;
+	text-decoration: none;
+}
+
+.left-menu div {
 	padding-right: 35px;
+}
+
+.dropdown-content  {
+  display: none;
+  background-color: #000;
+}
+
+.dropdown-content a {
+  color: #fff;
+  padding: 12px 16px;
+  text-decoration: none;
+  font-family: Arial;
+}
+
+.dropdown:hover .dropdown-content {
+  display: flex;
+  flex-flow: column;
+  position: absolute;
+  background: rgba(0,0,0,.6);
+    
 }
 
 .right-menu {

@@ -1,4 +1,4 @@
-angular.module('devflix', ['ui.router', 'youtube-embed'])
+angular.module('devflix', ['ui.router', 'youtube-embed']) //'ngAnimate', 'ngSanitize', 'ui.bootstrap'
 	.config(function($stateProvider, $urlRouterProvider){
 
 		$stateProvider

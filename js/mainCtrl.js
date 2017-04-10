@@ -28,7 +28,7 @@ angular.module('devflix').controller('mainCtrl', function($scope, mainService){
 
 			for(var i = 40; i < $scope.movies.length - 40; i++){
 				third20.push($scope.movies[i]);
-				// console.log($scope.second20)
+				console.log($scope.thrid20)
 			}
 
 			$scope.thirdList = third20;
@@ -37,7 +37,7 @@ angular.module('devflix').controller('mainCtrl', function($scope, mainService){
 
 			for(var i = 60; i < $scope.movies.length - 20; i++){
 				fourth20.push($scope.movies[i]);
-				// console.log($scope.second20)
+				// console.log($scope.fourth20)
 			}
 
 			$scope.fourthList = fourth20;
@@ -46,7 +46,7 @@ angular.module('devflix').controller('mainCtrl', function($scope, mainService){
 
 			for(var i = 80; i < $scope.movies.length; i++){
 				last20.push($scope.movies[i]);
-				// console.log($scope.second20)
+				// console.log($scope.last)
 			}
 
 			$scope.lastList = last20;

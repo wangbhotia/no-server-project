@@ -4,10 +4,29 @@
   <div class="nav-content">
 
     <section class="left-menu">
-      <nav>
-          <li><a ui-sref="home"><img src="./img/site/devflix.png" alt="devflix"></a></li>
-          <li><a class="browse">Browse<i class="fa fa-sort-desc"></i></a></li>
-          <li><a ui-sref="dvd">DVD</a></li>
+      <nav class="nav-test">
+
+          <div>
+            <li><a ui-sref="home"><img src="./img/site/devflix.png" alt="devflix"></a></li>
+          </div>
+
+          <div class="dropdown">
+            <a class="browse dropbtn">Browse<i class="fa fa-sort-desc"></i></a>
+              <div class="dropdown-content">
+                <a href="#">Action</a>
+                <a href="#">Adventure</a>
+                <a href="#">Comedy</a>
+                <a href="#">Drama</a>
+                <a href="#">Romance</a>
+                <a href="#">Scifi</a>
+                <a href="#">Thriller</a>
+              </div>
+          </div>            
+
+          <div>
+            <li><a ui-sref="dvd">DVD</a></li>
+          </div>
+
       </nav>
     </section>
 
@@ -15,7 +34,7 @@
       <nav class="menu-image">
           <li><i class="fa fa-search"></i></li>
           <li><a>Search</a></li>
-          <li><i style="color: white" class="fa fa-bell"></i></li>
+          <li><i class="fa fa-bell"></i></li>
           <li><img src="../img/site/account.png"></li>
           <li><a class="acct-name" ui-sref="account">Wang</a><i class="fa fa-sort-desc"></i></li>
       </nav>
