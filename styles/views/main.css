@@ -4,6 +4,51 @@
 	background-size: cover;
 	height: 100vh;
 	margin-bottom: 10px;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.cover-text {
+	max-width: 715px;
+	padding-top: 300px;
+	padding-left: 75px;
+}
+
+.cover-text h1 {
+	font-size: 60px;
+	/*text-align: center;*/
+	padding-bottom: 40px;
+}
+
+.cover-text p {
+	font-size: 30px;
+	/*text-align: center;*/
+}
+
+.cover-btn {
+	padding-top: 30px;
+	padding-left: 75px;
+}
+
+.play-btn {
+	border: 2px solid #E50914;
+  padding: 15px 40px;
+  background: #E50914;
+  color: #fff;
+  font-size: 1.2em;
+  margin-right: 10px;
+}
+
+.plus-btn {
+	border: 1px solid #fff;
+  padding: 15px 50px;
+  background: #000;
+  color: #fff;
+  font-size: 1.2em;
+  background: rgba(0,0,0,.1);
+}
+
+.fa-play, .fa-plus {
+	padding-right: 10px;
 }
 
 /*.main-content {
